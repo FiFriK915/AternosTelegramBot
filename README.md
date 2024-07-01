@@ -1,4 +1,9 @@
+- ![#f03c15] THIS BOT IS NOT RELEVANT! ATERNOS HAS MADE DRASTIC CHANGES TO ITS API! THIS SOLUTION NO LONGER WORKS\RELEVANT `#f03c15`
+
+
 # Aternos Telegram Bot on aiogram 3.0.0b8 and python_aternos 3.0.0
+
+
 
 # With this bot, you can start, stop and restart the server, view the list of players, the memory used in your telegram bot
 
